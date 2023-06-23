@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and app developing
 - 🌱 I’m currently working on react / native & node-js
 - 💞️ I always try best !
-- 📫 How to reach me from my fiverr account 
+- 📫 You can reach me from my fiverr account 
 
 <!---
 M-Saffan75/M-Saffan75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
