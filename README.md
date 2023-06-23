@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Saffan75
 - 👀 I’m interested in web and app developing
-- 🌱 I’m currently working on react / native
+- 🌱 I’m currently working on react / native & node-js
 - 💞️ I always try best !
 - 📫 How to reach me from my fiverr account 
 
