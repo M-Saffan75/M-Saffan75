@@ -1,4 +1,4 @@
-[logo](https://github.com/M-Saffan75/M-Saffan75/blob/main/0_FGD6BUzzZs1VJLuY.gif)
+![logo](https://github.com/M-Saffan75/M-Saffan75/blob/main/0_FGD6BUzzZs1VJLuY.gif)
 <h1 align="center">Hi 👋, I'm Saffan khan</h1>
 <h3 align="center">A Passionate MERN Stack and React Native Developer from Pakistan.</h3>
 
