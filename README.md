@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **React Native & NodeJs**<br><br>- 👨‍💻 All of my projects are available at [portfolio-by-me.surge.sh](portfolio-by-me.surge.sh)<br><br>- 💬 Ask me about **Javascript, ReactJs, React Native, NodeJs, MongoDB,**<br><br>- 📫 How to reach me **saffan.khan175@gmail.com**<br><br>- ⚡ Fun fact **I Reckon I've got a knack for humor.**
+- 🌱 I’m currently working **React Native & NodeJs**<br><br>- 👨‍💻 All of my projects are available at [portfolio-by-me.surge.sh](portfolio-by-me.surge.sh)<br><br>- 💬 Ask me about **Javascript, ReactJs, React Native, NodeJs, MongoDB,**<br><br>- 📫 How to reach me **saffan.khan175@gmail.com**<br><br>- ⚡ Fun fact **I Reckon I've got a knack for humor.**
 
 
 ## 🌐 Socials:
